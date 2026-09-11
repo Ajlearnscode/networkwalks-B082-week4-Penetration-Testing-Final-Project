@@ -157,3 +157,48 @@
 | **Requests Made** | `2` |
 | **Detection Status** | WAF Detected |
 
+
+## 6. Search for `Robots.txt` 
+Robots.txt file is a file that can be considered important. This file essentially tells robots/web scappers what pages or areas they can access and what they can't. Seeing this file can reveal vulnurabilities of a web application.
+
+**We check the robots.txt file**
+`curl https://medirozahospital.com/robots.txt`
+`output`
+<img width="418" height="153" alt="image" src="https://github.com/user-attachments/assets/b2747273-095f-472e-843a-eec49d26183e" />
+
+
+# Step 2 - Route to the Login Page
+
+<img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/e8be486b-f72e-4976-bacc-3690511c399f" />
+
+# Step 3 - Testing Input Validation 
+
+#### Test 1
+<img width="404" height="458" alt="image" src="https://github.com/user-attachments/assets/b8960a0c-ccce-487d-94b7-ec436d9ccffa" />
+
+#### Test 2
+<img width="401" height="449" alt="image" src="https://github.com/user-attachments/assets/370b8274-24de-4344-bc1a-88f0e1f75585" />
+
+* We realize that in the first try it says username does not exist.
+* Then in test 2, the error message changes to password is incorrect.
+* This clearly shows that their is a dedicated user by the name of admin in the system.
+
+# Step 4 - Check for SQL Injection Vulnurabilities
+
+<img width="406" height="522" alt="image" src="https://github.com/user-attachments/assets/9ea9e21f-be32-4ca3-984c-bdd3ccfa81ee" />
+
+
+<img width="397" height="522" alt="image" src="https://github.com/user-attachments/assets/417a21b8-35c0-419d-915f-305cacf10fea" />
+
+</br>
+<img width="1561" height="619" alt="image" src="https://github.com/user-attachments/assets/ebd42027-af69-4a5a-b86b-55c6ca7431f3" />
+
+# Step Download Reports
+
+
+
+
+
+
+
+
