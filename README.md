@@ -194,6 +194,74 @@ Robots.txt file is a file that can be considered important. This file essentiall
 <img width="1561" height="619" alt="image" src="https://github.com/user-attachments/assets/ebd42027-af69-4a5a-b86b-55c6ca7431f3" />
 
 # Step Download Reports
+<img width="1109" height="495" alt="image" src="https://github.com/user-attachments/assets/699d223e-aaa1-4411-aaa4-f3734dfd91a8" />
+
+# Milestone 2 - Cracking the Encryption
+
+## Hash Calculaion - Report PDF 1
+<img width="899" height="770" alt="image" src="https://github.com/user-attachments/assets/f25e80ab-644a-48eb-ae43-c573bf0db7c7" />
+
+### Cracked Password 
+<img width="888" height="888" alt="image" src="https://github.com/user-attachments/assets/1dea01ca-08bd-4b47-8847-1c81ff78fc41" />
+
+#### Result
+<img width="674" height="450" alt="image" src="https://github.com/user-attachments/assets/6ae80bc8-cc74-49c3-8303-068683146f38" />
+
+## Hash Calculator - Report 2
+<img width="905" height="769" alt="image" src="https://github.com/user-attachments/assets/c2144a1a-0788-40bf-954e-a8395e02ee7b" />
+
+## Cracked Password
+<img width="868" height="843" alt="image" src="https://github.com/user-attachments/assets/f092cce9-9db0-4d41-8f5f-ec35e26443c2" />
+
+#### Result
+<img width="678" height="441" alt="image" src="https://github.com/user-attachments/assets/5cc0b6f4-39d4-43b6-953c-3155d6395e62" />
+
+## Hash Calculator - Report 3
+<img width="907" height="769" alt="image" src="https://github.com/user-attachments/assets/af489e1f-f502-4d68-8556-e7680776c560" />
+
+## Cracked Password
+
+#### Test 1 - Fail
+<img width="886" height="910" alt="image" src="https://github.com/user-attachments/assets/b352bd24-5b5e-49cd-92a8-e0e7745f668d" />
+
+#### Test 2 - Success
+- A JTR wordlist was used to crack the password
+<img width="875" height="905" alt="image" src="https://github.com/user-attachments/assets/c450c3d7-02e7-47e4-8426-e29994a794da" />
+
+#### Result
+<img width="666" height="450" alt="image" src="https://github.com/user-attachments/assets/ed0b7f64-789d-4b36-abe2-670062356dbf" />
+
+#### Save an unlocked copy of the pdf
+<img width="923" height="403" alt="image" src="https://github.com/user-attachments/assets/bcdb164d-8adc-42f3-9dca-ba385eb06354" />
+
+# Milestone 3 - Deep Reconnaissance
+
+## Step 1 - Read Metadata using exiftool
+<img width="888" height="451" alt="image" src="https://github.com/user-attachments/assets/95a00420-3ac7-49ed-90a4-dec3f6b7f1b7" />
+
+## Step 2 - Open the "old" path
+<img width="1193" height="270" alt="image" src="https://github.com/user-attachments/assets/800f832b-6081-4f14-8878-21444cb9f421" />
+
+#### SQL FIle in Readable format - extracted a specific individual who was the IT Admin
+ J****l M***k | IT Systems Administrator | IT | R58,000 |
+ - They were the author of the pdf document in which we extracted metadata from
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
