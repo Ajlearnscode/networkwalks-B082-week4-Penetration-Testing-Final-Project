@@ -243,7 +243,7 @@ Robots.txt file is a file that can be considered important. This file essentiall
 <img width="1193" height="270" alt="image" src="https://github.com/user-attachments/assets/800f832b-6081-4f14-8878-21444cb9f421" />
 
 #### SQL FIle in Readable format - extracted a specific individual who was the IT Admin
- J****l M***k | IT Systems Administrator | IT | R58,000 |
+ J"* * * *"l M"* * *"k | IT Systems Administrator | IT | R58,000 |
  - They were the author of the pdf document in which we extracted metadata from
 
 
